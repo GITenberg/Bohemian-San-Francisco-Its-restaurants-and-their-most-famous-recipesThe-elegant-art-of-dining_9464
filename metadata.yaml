@@ -1,0 +1,25 @@
+_repo: Bohemian-San-Francisco-Its-restaurants-and-their-most-famous-recipesThe-elegant-art-of-dining_9464
+creator:
+  author:
+    agent_name: Edwords, Clarence E. (Clarence Edgar)
+    alias: Edwords, Clarence Edgar
+    birthdate: 1856
+    gutenberg_agent_id: '3063'
+    url: http://www.gutenberg.org/2009/agents/3063
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hotels -- California -- San Francisco'
+- !lcsh 'Cooking'
+- !lcc 'F850.5'
+title: 'Bohemian San Francisco
+
+  Its restaurants and their most famous recipes—The elegant art of dining.'
+url: http://www.gutenberg.org/ebooks/9464
